@@ -47,3 +47,5 @@ Now, write any city name and press enter or get weather button.
 ![](https://github.com/Kelta-King/weather_site/blob/master/tmp/temp.PNG)
 
 So, now you can see the temprature of that city in kelvin.
+
+Hit a :star: if you like the it and thanks for reading :smiley:
