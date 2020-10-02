@@ -37,3 +37,13 @@ to run the project.
 
       $ git clone https://github.com/Kelta-King/weather_site.git
       $ cd weather_site
+### Preview:
+Site is not good looking because I haven't pay attention to the site looks :sweat_smile: . You can apply css to make it more attractive. Below is how the first look of site is.
+
+![](https://github.com/Kelta-King/weather_site/blob/master/tmp/home.PNG)
+
+Now, write any city name and press enter or get weather button.
+
+![](https://github.com/Kelta-King/weather_site/blob/master/tmp/temp.PNG)
+
+So, now you can see the temprature of that city in kelvin.
